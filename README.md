@@ -1,6 +1,6 @@
 ## Setting up
 
-### create a python virtual environment
+### python venv
 ```sh
 mkdir .venv
 pipenv shell
